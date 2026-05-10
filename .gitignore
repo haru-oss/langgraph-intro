@@ -26,3 +26,12 @@ Thumbs.db
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# Claude Code generated files
+.claude/
+.claude-mem/
+plans/
+CLAUDE.md
+
+
+
